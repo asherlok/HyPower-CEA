@@ -1,7 +1,7 @@
 # CEA CALCULATOR
 A python sciprt which uses NASA's CEA to calculate C*, Isp, Chamber Temperature, Mass Flow Rate and Throat Area for any liquid bipropellant rocket engine.
 
-Must provide the following:
+Feed the following into the calculator:
 - Fuel
 - Oxidiser
 - O/F Ratio
@@ -26,3 +26,4 @@ pip install rocketcea matplotlib tabulate
 
 
 # USAGE
+Edit the engine details at the top of the script and then run
