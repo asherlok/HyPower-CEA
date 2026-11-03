@@ -14,8 +14,8 @@ The script also plots C* and Isp against O/F for every integer of O/F in the ran
 
 # INSTALLATION
 1. Clone git
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/asherlok/hypower-cea.git
+cd hypower-cea
 python -m venv .venv
 
 2. ACTIVATE THE VIRTUAL ENVIRONMENT
@@ -23,3 +23,6 @@ python -m venv .venv
 
 3. INSTALL DEPENDENCIES
 pip install rocketcea matplotlib tabulate
+
+
+# USAGE
